@@ -33,7 +33,7 @@ pip install miunlock
 curl -sS https://raw.githubusercontent.com/offici5l/MiUnlockTool/main/.install | bash
 ```
 
-## Usage
+## Usag
 ```sh
 miunlock
 ```
